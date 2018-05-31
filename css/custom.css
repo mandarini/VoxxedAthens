@@ -133,12 +133,11 @@ span.highlighted {
     width: 50%;
 }
 
-.white-bg h4 {
+.white-bg h4, .white-bg h5, .white-bg p {
     color: black;
     box-shadow: none;
     text-shadow: none;
 }
-
 
 .side-pics img {
     margin: 0 15px;
