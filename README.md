@@ -3,4 +3,4 @@
 These are my slides for the WeAreDevelopers conference presentation!
 
 Here will be the link to the presentation:
-[https://mandarini.github.io/WeAreDevsPres](https://mandarini.github.io/WeAreDevsPres)
+[https://mandarini.github.io/VoxxedAthens](https://mandarini.github.io/VoxxedAthens)
